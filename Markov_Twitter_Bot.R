@@ -3,10 +3,10 @@
 library("twitteR")
 
 #REPLACE '####' with the appropriate values from your twitter app
-consumerKey='JHi7Ac7iQbR8HYd8IXwgXQF0j'
-consumerSecret='KXKqw3U0EALKysuP66y6wmZuSe1QX9YnmTGJ8GvjP6ktuh2N5S'
-accessToken='1091084617187233793-7qtgPe4EYQXRhLqWL9XG6HGKBFI2gB'
-accessTokenSecret= '6InBQinaqV3uiscrp1iifaGyqLGTpLmkf0nh62Bnowl0P'
+consumerKey=
+consumerSecret=
+accessToken=
+accessTokenSecret=
 
 #connect to twitter
 setup_twitter_oauth(consumerKey,consumerSecret,accessToken,accessTokenSecret)
